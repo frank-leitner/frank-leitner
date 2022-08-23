@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on https://github.com/frank-leitner/portswigger-websecurity-academy
-- 🌱 I’m currently learning to attack web applications
 - 💬 Ask me about information security, threat analysis and risk assessments in product development
 - 📫 How to reach me: github@frank-leitner.de
 
