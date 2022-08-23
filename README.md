@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💬 Ask me about information security, threat analysis and risk assessments in product development
-- 📫 How to reach me: github@frank-leitner.de
+- [Medium profile](https://medium.com/@frank.leitner)
 
 
 <!--
