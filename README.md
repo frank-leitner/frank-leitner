@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 💬 Ask me about information security, threat analysis and risk assessments in product development
-- My medium.com profile: [@frank.leitner](https://medium.com/@frank.leitner). If you are new to Medium and want to become a member, you can use my affiliate link to support me https://medium.com/@frank.leitner/membership at no extra cost to you.
-- Buy me a coffee at https://ko-fi.com/frankleitner
+- My medium.com profile: [@frank.leitner](https://medium.com/@frank.leitner). If you are new to Medium and want to become a member to have full access to all stories on the platform, you can use my affiliate link to support me https://medium.com/@frank.leitner/membership at no extra cost to you.
 
 
 <!--
